@@ -13,12 +13,12 @@ import java.util.Scanner;
 //}
 
 //B:
-public class Hei {
-    public static void main(String[] args) {
-        String message = "Hello World";
-        JOptionPane.showMessageDialog(new JFrame(), message, "Window", JOptionPane.ERROR);
-    }
-}
+//public class Hei {
+//    public static void main(String[] args) {
+//        String message = "Hello World";
+//        JOptionPane.showMessageDialog(new JFrame(), message, "Window", JOptionPane.INFORMATION_MESSAGE);
+//    }
+//}
 
 //OPDRACHT 2
 //public class Hei {
